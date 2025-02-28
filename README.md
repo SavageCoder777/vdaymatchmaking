@@ -1,5 +1,3 @@
 # vdaymatchmaking
 
-Code to read people's valentines day questions from a google sheet and match them with their closest pair using a correlation algorithm between two arrays.
-
-Used for a high school matchmaking event for Valentine's Day
+Automated Valentine’s day matchmaking via an application that finds the top five Valentine matches for every participating student at my school and matched 500+ students in under a minute.
